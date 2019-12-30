@@ -50,8 +50,8 @@ make
 
 ## Controls
 - WASD Keys to move
-- Spacebar to attack
-- Mouse for ability direction and mouse left click for ability activation
+- Mouse left click to attack
+- Mouse right click for ability activation
 ## Story
 Deep in the ocean, something horrible has emerged: the forces of Atlantis are waging war upon humanity. Once a lowly beach bum, you are forced to fight through hordes of sea monsters in order to defend your home. The game will have around 5 - 10 stages (levels). In order for the player to clear all stages, the player needs to defeat all minions and boss(es) to pick up the key to unlock the next stage. 
 ## Core game design elements
